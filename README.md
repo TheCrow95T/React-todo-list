@@ -1,3 +1,7 @@
+# Learning from Dev Ed the youtuber
+
+https://youtu.be/pCA4qpQDZD8
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
